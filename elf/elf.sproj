@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ArtecProject Version="2" Name="elf" Uuid="{E0AC0E0E-46E8-4F0B-8EB9-6F336F63B0E2}" Rev="2">
+	<Scans Count="3">
+		<Scan Uuid="{65EFAD7B-8302-4EBD-B9AD-C94A8F1CB24E}" Name="Scan1" Items="197" LoadMode="scan" Selected="false" Size_kb="299336" />
+		<Scan Uuid="{D43DEBE9-E39A-4284-9B31-58CCA7AB4FC1}" Name="Scan2" Items="101" LoadMode="scan" Selected="false" Size_kb="134044" />
+		<Scan Uuid="{EB7256C1-E413-41F3-8251-7A326F4E9615}" Name="Sharp fusion1" Items="1" LoadMode="scan" Selected="true" Size_kb="74557" />
+	</Scans>
+</ArtecProject>

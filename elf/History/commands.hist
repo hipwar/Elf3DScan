@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<History Version="1">
+	<Commands Count="10" Position="9">
+		<Command Uuid="{7D778E79-54A7-41BF-A77A-CEF50369CF87}" Name="Editor (Eraser)" Status="e" Ecmd="15045" Size="90546344" />
+		<Command Uuid="{5C877D33-545E-4868-A958-12C95C6CE65C}" Name="Editor (Eraser)" Status="e" Ecmd="15045" Size="89418660" />
+		<Command Uuid="{CCD2BEEA-EEC1-4E35-BA86-B7C85EB333DB}" Name="Editor (Eraser)" Status="e" Ecmd="15045" Size="88214812" />
+		<Command Uuid="{8B2B720A-AB9C-45C0-B34C-256D5A06F51C}" Name="Editor (Eraser)" Status="e" Ecmd="15045" Size="85409320" />
+		<Command Uuid="{DBB6FB88-1F8B-4B8A-807A-8D7B421B579F}" Name="Editor (Eraser)" Status="e" Ecmd="15045" Size="80313036" />
+		<Command Uuid="{2D263581-C6B4-491E-9A68-0AEB052B8283}" Name="Editor (Eraser)" Status="e" Ecmd="15045" Size="80285752" />
+		<Command Uuid="{12BC9F10-374B-417B-8F9B-5ADAF2D4F1C2}" Name="Editor (Eraser)" Status="e" Ecmd="15045" Size="73751016" />
+		<Command Uuid="{66B3026F-A93B-4073-A945-0F44A4ADAE8A}" Name="Editor (Eraser)" Status="e" Ecmd="15045" Size="73667756" />
+		<Command Uuid="{21634C8A-2EAF-45DC-AA29-741E2D22C1E4}" Name="Editor (Eraser)" Status="e" Ecmd="15045" Size="73667572" />
+		<Command Uuid="{4D267819-D625-4A55-A5DF-3B0FFCEB73C6}" Name="Hole filling" Status="e" Ecmd="15045" Size="73635020" />
+	</Commands>
+</History>
